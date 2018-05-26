@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.store.gps.beans;
+package main.java.com.beans;
 
 import java.io.Serializable;
 
